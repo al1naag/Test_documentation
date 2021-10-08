@@ -2,7 +2,7 @@
 __ITCareerToday Web Form__
 
 Требования к форме регистрации 
-<https://github.com/al1naag/Test_documentation/blob/master/Registration_form_requirements.pdf>
+<https://github.com/al1naag/Test_documentation/blob/master/Registration_form_requirements.txt>
 
 Чек листы для проверки формы регистрации
 <https://docs.google.com/spreadsheets/d/1Il_D1ZR9n6Mbo2C4d55sNCD-u4VTiapGAj01GS9H3B4/edit?usp=sharing>
